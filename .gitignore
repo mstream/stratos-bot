@@ -1,0 +1,10 @@
+*.iml
+*.lock
+*.log
+.idea
+.DS_Store
+dist
+package-lock.json
+/lib
+/node_modules/
+.recordings
